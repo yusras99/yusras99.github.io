@@ -145,7 +145,7 @@ a:hover {
 /*--/ Title s /--*/
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #fff;
   font-size: 1.1rem;
 }
 
@@ -903,7 +903,7 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #4e4e4e;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -964,7 +964,7 @@ a:hover {
 }
 
 .work-content .w-more {
-  color: #4e4e4e;
+  color: #fff;
   font-size: 0.8rem;
 }
 
