@@ -457,10 +457,10 @@ a:hover {
 }
 
 #header .logo {
-  font-size: 28px;
+  font-size: 50px;
   margin: 0;
   padding: 0;
-  font-weight: 600;
+  font-weight: 800;
   letter-spacing: 1px;
 }
 
@@ -469,25 +469,13 @@ a:hover {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 80px;
 }
 
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
   padding: 12px 0;
 }
-/* .header img {
-  float: left;
-  width: 100px;
-  height: 100px;
-  background: #555;
-}
-
-.header title {
-  position: relative;
-  top: 18px;
-  left: 10px;
-} */
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -838,11 +826,11 @@ a:hover {
 --------------------------------------------------------------*/
 .about-mf .box-shadow-full {
   padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0.5rem;
 }
 
 .about-mf .about-img {
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
 }
 
 .about-mf .about-img img {
