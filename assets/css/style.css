@@ -476,7 +476,7 @@ a:hover {
   background: rgba(0, 0, 0, 0.9);
   padding: 12px 0;
 }
-.header img {
+/* .header img {
   float: left;
   width: 100px;
   height: 100px;
@@ -487,7 +487,7 @@ a:hover {
   position: relative;
   top: 18px;
   left: 10px;
-}
+} */
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -837,8 +837,8 @@ a:hover {
 # About
 --------------------------------------------------------------*/
 .about-mf .box-shadow-full {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .about-mf .about-img {
@@ -873,7 +873,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Projects
 --------------------------------------------------------------*/
 .service-box {
   background-color: #fff;
