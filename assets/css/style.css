@@ -476,7 +476,18 @@ a:hover {
   background: rgba(0, 0, 0, 0.9);
   padding: 12px 0;
 }
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
 
+.header title {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
