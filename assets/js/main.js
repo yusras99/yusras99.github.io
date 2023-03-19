@@ -236,6 +236,7 @@
     once: false, // Counting at once or recount when the element in view [boolean]
     pulse: false, // Repeat count for certain time [boolean:false|seconds]
     decimals: 2, // How many decimal places to show. [uint]
+    seperator: true,
   });
 
 })()
