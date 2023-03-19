@@ -230,7 +230,8 @@
   /**
    * Initiate Pure Counter 
    */
-  new PureCounter({
+  new PureCounter();
+  new PureCounter2({
     selector: '.purecounter',
     duration: 2,
     delay: 10,
