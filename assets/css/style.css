@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   background-color: #676767;
-  color: #4e4e4e;
+  color: #f5cece;
 }
 
 h1,
@@ -880,7 +880,7 @@ a:hover {
 
 .service-box .service-ico {
   margin-bottom: 1rem;
-  color: #676767;
+  color: #fff;
 }
 
 .service-box .ico-circle {
@@ -1446,7 +1446,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #ea9191;
+  background: #f98181;
 }
 
 footer .copyright {
