@@ -231,10 +231,12 @@
    * Initiate Pure Counter 
    */
   new PureCounter({
+    selector: '.purecounter',
     duration: 1.5, // The time in seconds for the animation to complete [seconds]
     delay: 8, // The delay between each iteration (the default of 10 will produce 100 fps) [miliseconds]
     once: false, // Counting at once or recount when the element in view [boolean]
     pulse: false, // Repeat count for certain time [boolean:false|seconds]
+    legacy:true,
     decimals: 2, // How many decimal places to show. [uint]
     seperator: true,
   });
