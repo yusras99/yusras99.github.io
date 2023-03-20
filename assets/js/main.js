@@ -226,11 +226,7 @@
       preloader.remove()
     });
   }
-
-  /**
-   * Initiate Pure Counter 
-   */
-  new PureCounter();
+  // purecounter for the decimal values
   new PureCounter2({
     selector: '.purecounter',
     duration: 2,
@@ -242,5 +238,9 @@
     currency: false,
     separator: true,
 });
+  /**
+   * Initiate Pure Counter 
+   */
+  new PureCounter();
 
 })()
