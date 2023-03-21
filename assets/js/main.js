@@ -228,7 +228,7 @@
   }
   new PureCounter({
     selector: '.purecounter',
-    duration: 2,
+    duration: 10,
     delay: 10,
     repeat: false,
     decimals: 4,
