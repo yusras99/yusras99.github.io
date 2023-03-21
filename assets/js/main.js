@@ -227,12 +227,12 @@
     });
   }
   // purecounter for the decimal values
-  new PureCounter2({
+  new PureCounter({
     selector: '.purecounter',
     duration: 2,
     delay: 10,
     repeat: false,
-    decimals: 2,
+    once,
     legacy: true,
     filesizing: false,
     currency: false,
@@ -241,6 +241,6 @@
   /**
    * Initiate Pure Counter 
    */
-  new PureCounter();
+  // new PureCounter();
 
 })()
