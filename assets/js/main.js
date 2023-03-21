@@ -227,20 +227,16 @@
     });
   }
   // purecounter for the decimal values
-
-  /**
-   * Initiate Pure Counter 
-   */
-  new PureCounter({
+  new PureCounter2({
     selector: '.purecounter',
     duration: 2,
     delay: 10,
     repeat: false,
-    once: false,
+    decimals: 2,
     legacy: true,
     filesizing: false,
     currency: false,
     separator: true,
-
+});
 
 })()
