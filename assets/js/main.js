@@ -233,7 +233,7 @@
     duration: 2,
     delay: 10,
     repeat: false,
-    decimals: 2,
+    decimals: 4,
     legacy: true,
     filesizing: false,
     currency: false,
