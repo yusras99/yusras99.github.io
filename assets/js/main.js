@@ -227,17 +227,7 @@
     });
   }
   // purecounter for the decimal values
-//   new PureCounter2({
-//     selector: '.purecounter',
-//     duration: 2,
-//     delay: 10,
-//     repeat: false,
-//     decimals: 2,
-//     legacy: true,
-//     filesizing: false,
-//     currency: false,
-//     separator: true,
-// });
+
   /**
    * Initiate Pure Counter 
    */
@@ -251,6 +241,6 @@
     filesizing: false,
     currency: false,
     separator: true,
-  });
+
 
 })()
