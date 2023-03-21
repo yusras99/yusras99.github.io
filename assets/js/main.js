@@ -228,12 +228,12 @@
   }
   new PureCounter({
     selector: '.purecounter',
-    duration: 2,
-    delay: 10,
     decimals: 2,
     separator: true,
+    duration: 1,
+    delay: 10,
 });
-  new PureCounter();
+  // new PureCounter();
   // purecounter for the decimal values
 
 })()
