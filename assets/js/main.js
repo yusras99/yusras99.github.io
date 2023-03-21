@@ -230,28 +230,16 @@
   /**
    * Initiate Pure Counter 
    */
-//   new PureCounter({
-//     selector: '.purecounter',
-//     duration: 0.5,
-//     delay: 10,
-//     repeat: false,
-//     decimals: 0,
-//     legacy: true,
-//     filesizing: false,
-//     currency: false,
-//     separator: false,
-//     formater: false,
-// });
-new PureCounter({
-  selector: '.purecounter',
-  duration: 2,
-  delay: 10,
-  repeat: false,
-  decimals: 2,
-  legacy: true,
-  filesizing: false,
-  currency: false,
-  separator: true,
+  new PureCounter({
+    selector: '.purecounter',
+    duration: 2,
+    delay: 10,
+    repeat: false,
+    decimals: 2,
+    legacy: true,
+    filesizing: false,
+    currency: false,
+    separator: true,
 });
 
 })()
