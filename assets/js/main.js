@@ -239,8 +239,8 @@
     legacy: true,
     filesizing: false,
     currency: false,
-    separator: true,
-    formater: true,
+    separator: false,
+    formater: false,
 });
 
 })()
