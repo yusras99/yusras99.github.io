@@ -232,13 +232,12 @@
     selector: '.purecounter',
     duration: 2,
     delay: 10,
-    decimal: 2,
     repeat: false,
-    once: false,
+    decimals: 2,
     legacy: true,
     filesizing: false,
     currency: false,
     separator: true,
-  });
+    });
 
 })()
