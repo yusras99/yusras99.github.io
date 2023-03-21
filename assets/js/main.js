@@ -232,7 +232,7 @@
    */
   new PureCounter({
     selector: '.purecounter',
-    duration: 2,
+    duration: 0.5,
     delay: 10,
     repeat: false,
     decimals: 2,
@@ -240,6 +240,7 @@
     filesizing: false,
     currency: false,
     separator: true,
+    formater: false,
 });
 
 })()
