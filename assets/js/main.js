@@ -233,10 +233,11 @@
     duration: 2,
     delay: 10,
     repeat: false,
+    decimals: 2,
     legacy: true,
     filesizing: false,
     currency: false,
-    separator: true,
-    });
+    separator: false,
+});
 
 })()
