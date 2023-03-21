@@ -237,6 +237,6 @@
     filesizing: false,
     currency: false,
     separator: true,
-});
+  });
 
 })()
