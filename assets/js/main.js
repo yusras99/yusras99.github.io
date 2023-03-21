@@ -235,7 +235,7 @@
     duration: 0.5,
     delay: 10,
     repeat: false,
-    decimals: 2,
+    decimals: 0,
     legacy: true,
     filesizing: false,
     currency: false,
