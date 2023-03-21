@@ -228,13 +228,9 @@
   }
   new PureCounter({
     selector: '.purecounter',
-    duration: 10,
+    duration: 2,
     delay: 10,
-    repeat: false,
-    decimals: 4,
-    legacy: true,
-    filesizing: false,
-    currency: false,
+    decimals: 2,
     separator: true,
 });
   new PureCounter();
