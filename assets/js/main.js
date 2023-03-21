@@ -240,7 +240,7 @@
     filesizing: false,
     currency: false,
     separator: true,
-    formater: false,
+    formater: true,
 });
 
 })()
