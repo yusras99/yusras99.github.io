@@ -228,16 +228,16 @@
   }
   new PureCounter();
   // purecounter for the decimal values
-  new PureCounter({
-    selector: '.purecounter',
-    duration: 2,
-    delay: 10,
-    repeat: false,
-    once: false,
-    legacy: true,
-    filesizing: false,
-    currency: false,
-    separator: true,
-  });
+  // new PureCounter({
+  //   selector: '.purecounter',
+  //   duration: 2,
+  //   delay: 10,
+  //   repeat: false,
+  //   once: false,
+  //   legacy: true,
+  //   filesizing: false,
+  //   currency: false,
+  //   separator: true,
+  // });
 
 })()
