@@ -226,7 +226,7 @@
       preloader.remove()
     });
   }
-  // new PureCounter();
+  new PureCounter();
   // purecounter for the decimal values
   new PureCounter({
     selector: '.purecounter',
