@@ -227,20 +227,20 @@
     });
   }
   // purecounter for the decimal values
+
+  /**
+   * Initiate Pure Counter 
+   */
   new PureCounter({
     selector: '.purecounter',
     duration: 2,
     delay: 10,
     repeat: false,
-    once,
+    once: false,
     legacy: true,
     filesizing: false,
     currency: false,
     separator: true,
-});
-  /**
-   * Initiate Pure Counter 
-   */
-  // new PureCounter();
+
 
 })()
