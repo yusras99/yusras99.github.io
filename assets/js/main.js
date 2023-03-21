@@ -226,14 +226,20 @@
       preloader.remove()
     });
   }
+
+  /**
+   * Initiate Pure Counter 
+   */
   new PureCounter({
     selector: '.purecounter',
-    decimals: 2,
-    separator: true,
-    duration: 1,
+    duration: 2,
     delay: 10,
+    repeat: false,
+    decimals: 2,
+    legacy: true,
+    filesizing: false,
+    currency: false,
+    separator: true,
 });
-  // new PureCounter();
-  // purecounter for the decimal values
 
 })()
