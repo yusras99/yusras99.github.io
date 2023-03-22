@@ -111,11 +111,13 @@
     box-shadow: 0 0 0 10px $primary-light;
   }
 }
-
 .counter-num {
   .counter {
     font-size: 2rem;
     margin-bottom: 0;
+  }
+  .counter-text{
+    font-size: 50px;
   }
 }
 
