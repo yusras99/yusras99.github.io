@@ -239,7 +239,7 @@
     legacy: true,
     filesizing: false,
     currency: false,
-    // separator: true,
+    separator: true,
 });
 
 })()
