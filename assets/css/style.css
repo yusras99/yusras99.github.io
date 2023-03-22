@@ -930,13 +930,12 @@ a:hover {
   line-height: 1.5;
   box-shadow: 0 0 0 10px #cde1f8;
 }
-
+.counter-text{
+  font-size: 50px;
+}
 .counter-num .counter {
   font-size: 1rem;
   margin-bottom: 0;
-}
-.counter-text{
-  font-size: 0.5rem;
 }
 
 /*--------------------------------------------------------------
