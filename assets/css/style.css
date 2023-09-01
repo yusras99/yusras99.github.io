@@ -552,17 +552,19 @@ a:hover {
 .navbar li:hover>a {
   color: #fff;
 }
-.navbar .dropdown span {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 2px;
-  bottom: -6px;
-  left: 0;
-  width: 0;
-  background-color: #676767;
-  visibility: hidden;
-  transition: all 0.3s ease-in-out 0s;
+.navbar .dropdown-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0;
+  white-space: nowrap;
+  transition: 0.3s;
+  letter-spacing: 0.4px;
+  position: relative;
+  text-transform: uppercase;
 }
 .navbar .dropdown ul {
   display: block;
